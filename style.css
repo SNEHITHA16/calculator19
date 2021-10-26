@@ -1,0 +1,27 @@
+button{
+    color:rgb(77, 8, 8);
+   padding: 15px;
+    text-align: justify;
+    margin-left: 10px;
+    background-color: rgba(88, 103, 104, 0.205);
+    border-radius: 10px;
+}
+table, td, th {
+    border: 2px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 10%;
+    background-color: cadetblue;
+  }
+  td{
+    text-align: center;
+  }
+  
+.container{
+    align-content: center;
+    border: rgb(94, 85, 74);
+    margin: auto;
+    padding: 20px;
+} 
